@@ -6,3 +6,5 @@ Continuously updated dataset of crypto fundraising in 2026, including venture fu
 January 2026 - https://cryip.co/crypto-fundraising-in-january-2026
 
 February 2026 - https://cryip.co/crypto-fundraising-in-february-2026/ 
+
+March 2026 - https://cryip.co/web3-and-crypto-fundraising-report-for-march-2026/
